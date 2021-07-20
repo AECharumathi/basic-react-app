@@ -1,4 +1,4 @@
-# Introduction To Web Development And React
+# Basic React Application
 1. Create a React application by following the below steps:1.Install Nodejs and create the basic seed of React
 2. Setup the Visual studio code and setup the React applicationin VS code.
 3. Create the Home Page of the application.
